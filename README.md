@@ -87,7 +87,7 @@ Subquestions include:
 
 ## Limitations
 
-* The analysis does **not control for confounding variables** such as team quality, opponent strength, or match type. *(Note: I tried to do that but the current data set had to be merged with another data set that had team standings and rankings, but due to a lot of missing values and inconsistent team names in the Data, the merging process was making me go mad!)*
+* The analysis does **not control for confounding variables** such as team quality, opponent strength, or match type. *(Note: I initially attempted to merge the current dataset with another containing team standings and rankings. However, the process turned out to be extremely challenging due to numerous missing values and inconsistent team naming conventions across the datasets. This made the merge both frustrating and error-prone.)*
   
 * Attendance may correlate with marquee matchups, rivalry games, or high-performing teams, introducing bias.
   
